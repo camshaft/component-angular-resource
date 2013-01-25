@@ -1,0 +1,15 @@
+{
+  "name": "component-angular-resource",
+  "repo": "CamShaft/component-angular-resource",
+  "description": "Angular.js Resource Component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "CamShaft/component-angular": "1.0.3"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
