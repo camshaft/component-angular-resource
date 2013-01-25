@@ -432,4 +432,4 @@ angular.module('ngResource', ['ng']).
     return ResourceFactory;
   }]);
 
-})(window, window.angular);
+})(window, require("angular"));
